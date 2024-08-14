@@ -1,0 +1,2 @@
+# XssMap
+Xss auto Scan
